@@ -161,7 +161,7 @@ let ariaCerc2 = function (PI, raza) {
     return PI * raza * raza;
 }
 let result8 = ariaCerc2 (3.14, 25);
-console.log (result5);
+console.log (result8);
 
 //aroww
 let arrowCerc = (PI, raza) => {
